@@ -19,7 +19,7 @@ To run the code and reproduce the analysis, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the main script `complaint_analysis.py` to execute the analysis.
+3. Run the main script `my first project.ipynb` to execute the analysis.
 
 ## Usage
 
