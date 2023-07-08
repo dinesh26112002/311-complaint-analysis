@@ -1,0 +1,9 @@
+tools and libraries used in this project
+#tools
+# jupyter
+# minianaconda shell
+# mito.ai(optional)
+
+#libraries
+# pandas
+# matplotlib
