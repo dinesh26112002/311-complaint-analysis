@@ -29,6 +29,8 @@ Modify the script's settings and parameters to adapt it to your specific needs. 
 
 We would like to express our gratitude to the US government for providing the complaint data used in this project. We also thank the MITO.AI platform for enabling us to create reusable code and streamline our analysis process.
 
-## License
+## Author
 
-This project is licensed under the [MIT License](LICENSE).
+contact me@ = https://www.linkedin.com/in/dineshsindhuram/
+
+
